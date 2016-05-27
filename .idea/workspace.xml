@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="181d7854-66bc-443c-a5e8-84565f15f29b" name="Default" comment="" />
+    <ignored path="books.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="books" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database/migrations/2016_05_26_174618_create_authors_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_05_26_181527_create_publisher_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_05_26_174529_create_books_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_05_26_190502_create_authors_table.php" />
+        <option value="$PROJECT_DIR$/database/seeds/PublishersTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/AuthorTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/BookAuthorTableSeeder.php" />
+        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Author.php" />
+        <option value="$PROJECT_DIR$/app/Publisher.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Controller.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_05_26_190420_create_books_table.php" />
+        <option value="$PROJECT_DIR$/database/seeds/BooksTableSeeder.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BookController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+        <option value="$PROJECT_DIR$/app/Book.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PublisherController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AuthorController.php" />
+        <option value="$PROJECT_DIR$/tests/PublisherTest.php" />
+        <option value="$PROJECT_DIR$/tests/BookTest.php" />
+        <option value="$PROJECT_DIR$/tests/AuthorTest.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1680" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seeds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="181d7854-66bc-443c-a5e8-84565f15f29b" name="Default" comment="" />
+      <created>1464288549156</created>
+      <option name="number" value="Default" />
+      <updated>1464288549156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970297" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32970297" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2016_05_26_181527_create_publisher_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7916667">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <marker date="1464289134000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464289134000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464289134000" expanded="true" signature="-1:-1" placeholder=" Run the migrations. ..." />
+            <marker date="1464289134000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464289134000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464289134000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464289134000" expanded="true" signature="-1:-1" placeholder=" Reverse the migrations. ..." />
+            <marker date="1464289134000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2016_05_26_190502_create_authors_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.038735982">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder=" Run the migrations. ..." />
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder=" Reverse the migrations. ..." />
+            <marker date="1464289517000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/ModelFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/fzaninotto/faker/src/Faker/Factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.26080248">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder=" Create a new generator ..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder=" @param string $provider ..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder=" @param string $provider ..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/fzaninotto/faker/src/Faker/Guesser/Name.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder=" @param \Faker\Generator $generator ..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder=" @param string $name ..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/fzaninotto/faker/src/Faker/Provider/en_US/Person.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6651235">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder=" @example 'PhD' ..." />
+            <marker date="1461932514000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/BookAuthorTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11728395">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <marker date="1464293707000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464293707000" expanded="true" signature="-1:-1" placeholder=" Run the database seeds. ..." />
+            <marker date="1464293707000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464293707000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464293707000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464293707000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/PublishersTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14660494">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1464292285000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464292285000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464292285000" expanded="true" signature="-1:-1" placeholder=" Run the database seeds. ..." />
+            <marker date="1464292285000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464292285000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464292285000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464292285000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49845678">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding>
+            <marker date="1464294746000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464294746000" expanded="true" signature="-1:-1" placeholder=" Run the database seeds. ..." />
+            <marker date="1464294746000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464294746000" expanded="true" signature="-1:-1" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" The attributes that are mass assignable. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" The attributes that should be hidden for arrays. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Author.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6157407">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="60" />
+          <folding>
+            <marker date="1464303051000" expanded="true" signature="-1:-1" placeholder=" Class Author ..." />
+            <marker date="1464303051000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464303051000" expanded="true" signature="-1:-1" placeholder=" @var array ..." />
+            <marker date="1464303051000" expanded="true" signature="-1:-1" placeholder=" fetches all the books that has been written by the author ..." />
+            <marker date="1464303051000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0555556">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.11419753">
+          <caret line="175" column="8" selection-start-line="175" selection-start-column="8" selection-end-line="175" selection-end-column="8" />
+          <folding>
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464301966000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.78858024">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" Where to redirect users after login / registration. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" Create a new authentication controller instance. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" Get a validator for an incoming registration request. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" Create a new user instance after a valid registration. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.72993827">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" The application's global HTTP middleware stack. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" The application's route middleware groups. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" The application's route middleware. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2345679">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <marker date="1464304532000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464304532000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" The names of the cookies that should not be encrypted. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5277778">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1464304650000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464304650000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464304650000" expanded="true" signature="-1:-1" placeholder=" Handle an incoming request. ..." />
+            <marker date="1464304650000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464304650000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464304650000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464304650000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5277778">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding>
+            <marker date="1464304656000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464304656000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464304656000" expanded="true" signature="-1:-1" placeholder=" Handle an incoming request. ..." />
+            <marker date="1464304656000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464304656000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2016_05_26_190420_create_books_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55709875">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <marker date="1464305839000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464305839000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464305839000" expanded="true" signature="-1:-1" placeholder=" Run the migrations. ..." />
+            <marker date="1464305839000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464305839000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464305839000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464305839000" expanded="true" signature="-1:-1" placeholder=" Reverse the migrations. ..." />
+            <marker date="1464305839000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/BooksTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64506173">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <marker date="1464305853000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464305853000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464305853000" expanded="true" signature="-1:-1" placeholder=" Run the database seeds. ..." />
+            <marker date="1464305853000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464305853000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464305853000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464305853000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41049382">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <marker date="1464306629000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464306629000" expanded="true" signature="-1:-1" placeholder=" The URIs that should be excluded from CSRF verification. ..." />
+            <marker date="1464306629000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Book.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44290122">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+          <folding>
+            <marker date="1464307029000" expanded="true" signature="-1:-1" placeholder=" Class Book ..." />
+            <marker date="1464307029000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464307029000" expanded="true" signature="-1:-1" placeholder=" @var array $fillable data displayable to user ..." />
+            <marker date="1464307029000" expanded="true" signature="-1:-1" placeholder=" @var array $hidden data from user ..." />
+            <marker date="1464307029000" expanded="true" signature="-1:-1" placeholder=" fetches publisher detail associated with the book ..." />
+            <marker date="1464307029000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464307029000" expanded="true" signature="-1:-1" placeholder=" fetches author(s) who who have written the book ..." />
+            <marker date="1464307029000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58641976">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <marker date="1464307833000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464307833000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464307833000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Publisher.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58641976">
+          <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
+          <folding>
+            <marker date="1464303079000" expanded="true" signature="-1:-1" placeholder=" Class Publisher ..." />
+            <marker date="1464303079000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464303079000" expanded="true" signature="-1:-1" placeholder=" @var array ..." />
+            <marker date="1464303079000" expanded="true" signature="-1:-1" placeholder=" fetch all the books that has been published by the publisher ..." />
+            <marker date="1464303079000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PublisherController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7037037">
+          <caret line="78" column="44" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+          <folding>
+            <marker date="1464308420000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder=" function for fetching all publishers ..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder=" function for getting publisher by an Id ..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder=" function for updating publisher name ..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder=" function for inserting new publisher ..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder=" function for deleting a publisher ..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308420000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="false" signature="-1:-1" placeholder=" Laravel - A PHP Framework For Web Artisans ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.37808642">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32253087">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{&quot;fzaninotto/faker&quot;: &quot;~1.4&quot;...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{&quot;App\&quot;: &quot;app/&quot;...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-84.766975">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{&quot;private&quot;: true...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{&quot;prod&quot;: &quot;gulp --production&quot;...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{&quot;gulp&quot;: &quot;^3.9.1&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" The base URL to use while testing the application. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" Creates the application. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1461762072000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder=" A basic functional test example. ..." />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1461762072000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AuthorController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.34876543">
+          <caret line="64" column="48" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
+          <folding>
+            <marker date="1464308464000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder=" function for fetching all author ..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder=" function for getting author by an Id ..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder=" function for updating author first and last name ..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder=" function for inserting new author ..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder=" function for deleting an author ..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464308464000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BookController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9845679">
+          <caret line="89" column="7" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+          <folding>
+            <marker date="1464306502000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder=" function for fetching all books ..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder=" function for fetching book with an id ..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder=" function for updating book name ..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder=" function for inserting new book ..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder=" function for deleting a book ..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464306502000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/AuthorTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08796296">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <marker date="1464292817000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464292817000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464292817000" expanded="true" signature="-1:-1" placeholder=" Run the database seeds. ..." />
+            <marker date="1464292817000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464292817000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464292817000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464292817000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/BookTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5246913">
+          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+          <folding>
+            <marker date="1464364129000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder=" A basic test example. ..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder=" test for fetching all books ..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder=" test for getting a book from an id ..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder=" updating a book name with an id ..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder=" test for deleting a book which doesn't exist ..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder=" test for adding a new book ..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364129000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/PublisherTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4953704">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+          <folding>
+            <marker date="1464364034000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder=" A basic test example. ..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder=" Test for getting all publishers ..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder=" Test for getting publisher with an id ..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder=" test for updating publisher name with an id ..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder=" test for deleting a publisher which doesn't exist ..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder=" test for adding new publisher ..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364034000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/AuthorTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8240741">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder=" A basic test example. ..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder=" test for fetching all authors ..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder=" test for getting an author information from an id ..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder=" test for updating author's first name ..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder=" deleting an invalid author ..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder=" test for adding new author ..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1464364282000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
